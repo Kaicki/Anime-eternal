@@ -1,0 +1,8 @@
+# Este arquivo lista as ferramentas gerenciadas pelo Aftman, um gerenciador de cadeia de ferramentas multiplataforma.
+# Para mais informações, consulte https://github.com/LPGhatguy/aftman
+
+Para adicionar uma nova ferramenta, adicione uma entrada a esta tabela.
+[ ferramentas ]
+vermelho = " vermelho-rbx/vermelho@7.3.0 "
+darklua = " seaofvoices/darklua@0.9.0 "
+lune = " filiptibell/lune@0.7.6 "
